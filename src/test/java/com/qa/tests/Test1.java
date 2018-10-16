@@ -9,6 +9,11 @@ public class Test1 {
 	{
 		System.out.println("myFirstTest");
 	}
+	@Test
+	public void mySecondTest()
+	{
+		System.out.println("mySecondTest");
+	}
 	
 
 }
